@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68ec561d.chunk.css",
+    "main.js": "/static/js/main.cf8495ad.chunk.js",
+    "main.js.map": "/static/js/main.cf8495ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.34c116f3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.34c116f3.js.map",
+    "static/js/2.1392bd0e.chunk.js": "/static/js/2.1392bd0e.chunk.js",
+    "static/js/2.1392bd0e.chunk.js.map": "/static/js/2.1392bd0e.chunk.js.map",
+    "static/js/3.3ba4d558.chunk.js": "/static/js/3.3ba4d558.chunk.js",
+    "static/js/3.3ba4d558.chunk.js.map": "/static/js/3.3ba4d558.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.68ec561d.chunk.css.map": "/static/css/main.68ec561d.chunk.css.map",
+    "static/js/2.1392bd0e.chunk.js.LICENSE.txt": "/static/js/2.1392bd0e.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Inter-roman.var.b65534c5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c116f3.js",
+    "static/js/2.1392bd0e.chunk.js",
+    "static/css/main.68ec561d.chunk.css",
+    "static/js/main.cf8495ad.chunk.js"
+  ]
+}
